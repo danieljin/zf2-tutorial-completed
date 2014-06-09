@@ -13,6 +13,6 @@ Installation
     php composer.phar self-update
     php composer.phar install
 
-    Replace config/autoload/sample-local.php credentials and rename file to local.php
-    Setup Apache and point to to the public/ directory of the project.
+Replace config/autoload/sample-local.php credentials and rename file to local.php
+Setup Apache and point to to the public/ directory of the project.
 
